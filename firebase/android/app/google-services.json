@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347203165180",
+    "firebase_url": "https://winter-jet-245514.firebaseio.com",
+    "project_id": "winter-jet-245514",
+    "storage_bucket": "winter-jet-245514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347203165180:android:b306828711c3d46d14f079",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347203165180-0qbnbdg9oun8f54ri4fod0p02a4190ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWFTGXD4q5jkva5JltLSC4zysTHrKo5pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347203165180-0qbnbdg9oun8f54ri4fod0p02a4190ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
