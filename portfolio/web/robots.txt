@@ -1,0 +1,3 @@
+Sitemap: https://deandreamatias.com/sitemap.xml
+User-agent: *
+Crawl-delay: 60

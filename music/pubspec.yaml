@@ -1,0 +1,40 @@
+name: Tunein
+description: music player app.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayer: ^0.5.2
+  path_provider: ^0.4.1
+  rxdart: ^0.22.0
+  sliding_up_panel: ^0.3.4
+  shared_preferences: ^0.5.3+1
+  simple_permissions: ^0.1.9
+  get_it: ^1.0.3+1
+  crypto: ^2.0.6
+  uuid: ^2.0.2
+  wave_progress_bars: ^0.1.0
+dependency_overrides:
+  flutter_svg: ^0.5.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+
+flutter:
+  assets:
+    - images/
+  fonts:
+    - family: Boxicons
+      fonts:
+        - asset: fonts/boxicons.ttf
+          weight: 400
+
+  
+  uses-material-design: true

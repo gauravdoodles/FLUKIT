@@ -1,0 +1,3 @@
+class SettingsAPI {
+    SettingsAPI._();
+}

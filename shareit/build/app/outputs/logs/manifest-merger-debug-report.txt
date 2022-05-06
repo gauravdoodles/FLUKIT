@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\d78f074fb803e4195ca0dc50897037cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\89826979aa9722c6fe75446dee764885\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\a55c0ed2b3909f9c2fa4cf4088f18dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\8bb442e7317f8783f1db25894add7a67\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\0e6018dd812ee0623496a03ca78471ab\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\c7dd477b24754dd0e5e7a518e28a7ad0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0-alpha01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\769d33f867f8d12381108d0d31d0ec26\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\cb1ed0821c2be6342f2509822a63755b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\556968227d92304142412e24c6dfabfb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\a06838e9261d12b4c440e23e000b165c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\1fafce4efb518d9f153c0c1a8147ce48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\37a6c24d5681207c3f2e9af28da883fd\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\e90a605709765923d141112ea568b883\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\b0d14bd9ddd7d2e61b7bb67e9c16ef9a\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml:1:1-11:12
+INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml:1:1-11:12
+INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:11:5-80
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:11:5-80
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:13:5-78
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:13:5-78
+MERGED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.wifi
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:14:5-81
+	android:required
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:14:56-79
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:14:19-55
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:16:22-83
+application
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:17:5-40:19
+MERGED from [androidx.core:core:1.2.0-alpha01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\769d33f867f8d12381108d0d31d0ec26\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.2.0-alpha01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\769d33f867f8d12381108d0d31d0ec26\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\37a6c24d5681207c3f2e9af28da883fd\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\37a6c24d5681207c3f2e9af28da883fd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\769d33f867f8d12381108d0d31d0ec26\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:19:9-34
+	android:icon
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:18:9-57
+activity#io.github.itzmeanjan.transferz.MainActivity
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:21:9-39:20
+	android:launchMode
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:23:13-43
+	android:hardwareAccelerated
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:25:13-144
+	android:theme
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:22:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:32:13-34:40
+	android:value
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:34:17-37
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:33:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\d78f074fb803e4195ca0dc50897037cf\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\d78f074fb803e4195ca0dc50897037cf\AndroidManifest.xml:20:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\89826979aa9722c6fe75446dee764885\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\89826979aa9722c6fe75446dee764885\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\a55c0ed2b3909f9c2fa4cf4088f18dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\a55c0ed2b3909f9c2fa4cf4088f18dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\8bb442e7317f8783f1db25894add7a67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\8bb442e7317f8783f1db25894add7a67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\0e6018dd812ee0623496a03ca78471ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\0e6018dd812ee0623496a03ca78471ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\c7dd477b24754dd0e5e7a518e28a7ad0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\c7dd477b24754dd0e5e7a518e28a7ad0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\769d33f867f8d12381108d0d31d0ec26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\769d33f867f8d12381108d0d31d0ec26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\cb1ed0821c2be6342f2509822a63755b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\cb1ed0821c2be6342f2509822a63755b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\556968227d92304142412e24c6dfabfb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\556968227d92304142412e24c6dfabfb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\a06838e9261d12b4c440e23e000b165c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\a06838e9261d12b4c440e23e000b165c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\1fafce4efb518d9f153c0c1a8147ce48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\1fafce4efb518d9f153c0c1a8147ce48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\37a6c24d5681207c3f2e9af28da883fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\37a6c24d5681207c3f2e9af28da883fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\e90a605709765923d141112ea568b883\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\e90a605709765923d141112ea568b883\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\b0d14bd9ddd7d2e61b7bb67e9c16ef9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pgaur\.gradle\caches\transforms-2\files-2.1\b0d14bd9ddd7d2e61b7bb67e9c16ef9a\AndroidManifest.xml:20:5-44
+INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml
+INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\flutterer\shareit\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\flutterer\shareit\android\app\src\debug\AndroidManifest.xml

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181922432541",
+    "firebase_url": "https://flutterer-d53fc.firebaseio.com",
+    "project_id": "flutterer-d53fc",
+    "storage_bucket": "flutterer-d53fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181922432541:android:28057fd41d7f015a70e8f4",
+        "android_client_info": {
+          "package_name": "co.gaurav.flutterer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181922432541-81ivbslpdog7ali7idg0jif0n9n8i55n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnMYdJwC4iL0o1In974MDoK-FFTgCvghk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181922432541-81ivbslpdog7ali7idg0jif0n9n8i55n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
